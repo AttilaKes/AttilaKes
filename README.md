@@ -1,6 +1,6 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://imgflip.com/gif/b29hop"  />
-</div>
+<p align="center">
+  <img src="./assets/coding_avatar_thumbsup.gif" width="500">
+</p>
 
 ###
 

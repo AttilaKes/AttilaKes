@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/coding_avatar_thumbsup.gif" width="500" alt="Coding Avatar">
+  <img src="./assets/coding_avatar_thumbsup.gif" width="250" alt="Coding Avatar">
 </p>
 
 <br>

@@ -41,6 +41,50 @@ Aktuell konzentriere ich mich hauptsächlich auf:
 - Git & GitHub
 - praktische Web-Projekte
 
+<br>
+
+<div align="center">
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    height="55"
+    alt="HTML5"
+  >
+
+  <img width="20">
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    height="55"
+    alt="CSS3"
+  >
+
+  <img width="20">
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    height="55"
+    alt="JavaScript"
+  >
+
+  <img width="20">
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    height="55"
+    alt="Git"
+  >
+
+  <img width="20">
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    height="55"
+    alt="GitHub"
+  >
+
+</div>
+
 ---
 
 ## 🧠 Currently Learning
@@ -49,13 +93,15 @@ Aktuell konzentriere ich mich hauptsächlich auf:
 Fachinformatiker für Anwendungsentwicklung
 │
 ├── HTML & CSS
+│
 ├── JavaScript
 │   ├── Functions
 │   ├── Conditions
-│   ├── DOM
+│   ├── DOM Manipulation
 │   └── Events
 │
 ├── Git & GitHub
+│
 ├── Software Development
 │
 └── Next Steps

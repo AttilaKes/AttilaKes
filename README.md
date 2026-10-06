@@ -21,8 +21,9 @@ Ich befinde mich aktuell in der **Umschulung zum Fachinformatiker für Anwendung
 
 Softwareentwicklung lerne ich nicht nur theoretisch – ich versuche neue Inhalte direkt in eigenen Projekten praktisch umzusetzen.
 
-Mein beruflicher Hintergrund liegt ursprünglich im **Banking und im betriebswirtschaftlichen Bereich**.  
-Heute verbinde ich analytisches Denken mit meiner Begeisterung für **Softwareentwicklung, Automatisierung und moderne Technologien**.
+Mein beruflicher Hintergrund liegt ursprünglich im **Vertrieb und im betriebswirtschaftlichen Bereich**.
+
+Heute kombiniere ich wirtschaftliches Verständnis, analytisches Denken und praktische Erfahrung aus dem Vertrieb mit meiner wachsenden Leidenschaft für **Softwareentwicklung, Automatisierung und moderne Technologien**.
 
 Mein Ziel ist es, Schritt für Schritt vom Lernenden zum professionellen Softwareentwickler zu werden.
 

@@ -69,30 +69,6 @@ Fachinformatiker für Anwendungsentwicklung
 
 ---
 
-## 🚀 Projects
-
-Während meiner Umschulung entstehen kontinuierlich neue Projekte, mit denen ich die gelernten Inhalte praktisch anwende.
-
-### 🍜 Sakura Ramen
-
-Webprojekt mit Fokus auf:
-
-`HTML` · `CSS` · `Responsive Design` · `UI`
-
-### 🥠 Glückskeks
-
-JavaScript-Projekt mit Fokus auf:
-
-`JavaScript` · `DOM` · `Events` · `Functions`
-
-### 💻 FIAE Projects
-
-Weitere Übungen und Projekte aus meiner Umschulung zum **Fachinformatiker für Anwendungsentwicklung**.
-
-> Learning by building — jedes Projekt erweitert Schritt für Schritt meinen Tech-Stack.
-
----
-
 ## 🛠️ Technologies
 
 <div align="center">
@@ -128,7 +104,7 @@ Weitere Übungen und Projekte aus meiner Umschulung zum **Fachinformatiker für 
 
 ## 📈 My GitHub Journey
 
-Hier dokumentiere ich meinen Lernfortschritt, meine Projekte und meine Entwicklung als Softwareentwickler.
+Hier dokumentiere ich meinen Lernfortschritt und meine Entwicklung als Softwareentwickler.
 
 Von den Grundlagen in **HTML, CSS und JavaScript** bis hin zu komplexeren Anwendungen, Automatisierung und AI soll dieses Profil meinen Weg Schritt für Schritt dokumentieren.
 
@@ -148,6 +124,6 @@ Von den Grundlagen in **HTML, CSS und JavaScript** bis hin zu komplexeren Anwend
 
 ### 🚀 Building. Learning. Improving.
 
-<sub>My journey into software development — one project at a time.</sub>
+<sub>My journey into software development — one step at a time.</sub>
 
 </div>
